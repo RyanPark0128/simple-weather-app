@@ -107,4 +107,8 @@ main {
         transition: 0.4 ease;
         width: 100%;
     }
-  }
+    .location-box .location {
+        margin-top: 20%;
+    }
+
+}
